@@ -28,6 +28,9 @@ What's shipped, what's next, what's blocked. Edit this for your fork.
 - ✅ /wildcard
 - ✅ /gsd
 - ✅ /roast
+- ✅ /decide
+- ✅ /standup
+- ✅ /onepager
 
 ### Infrastructure
 - ✅ Acknowledgment loop (mailto: + Step 0 scan)

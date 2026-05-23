@@ -10,7 +10,7 @@ These changes don't add anything new — they make the default setup fit your li
 
 ### 1. Persona
 Edit the `Persona` section of `CLAUDE.md`. The default is "direct, warm, slightly cheeky." Variations:
-
+ 
 - **Softer**: "warm, encouraging, patient. Asks rather than tells. Reframes setbacks as data."
 - **Sharper**: "blunt, unsentimental, allergic to excuses. Names patterns you'd rather not see."
 - **More technical**: "engineer-coded. Roots arguments in first principles. Skeptical of consensus."
